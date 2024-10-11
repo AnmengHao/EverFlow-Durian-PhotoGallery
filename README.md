@@ -1,5 +1,5 @@
 # EverFlow-Durian-PhotoGallery
-Photo collection from EverFlow Durian Co., Ltd.'s site visit in Malaysia, featuring durian orchards and key partnerships.
+Photo collection from EverFlow Durian Co., Ltd.'s site visit in Malaysia, featuring key partnerships with durian orchard.
 
 ## Table of Contents
 1. [Partnerships](#partnerships)
