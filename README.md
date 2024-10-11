@@ -3,7 +3,6 @@ Photo collection from EverFlow Durian Co., Ltd.'s site visit in Malaysia, featur
 
 ## Table of Contents
 1. [Partnerships](#partnerships)
-2. [Orchard Visits](#orchard-visits)
 
 # Partnerships
 These images show the durian orchards in Malaysia that are part of the EverFlow Durian supply chain.
@@ -14,3 +13,4 @@ These images show the durian orchards in Malaysia that are part of the EverFlow 
 ![Orchard 4](https://github.com/AnmengHao/EverFlow-Durian-PhotoGallery/blob/a76c666c0f95182dcffba1862d705d2c2de001a0/Durian4.jpg)
 ![Orchard 5](https://github.com/AnmengHao/EverFlow-Durian-PhotoGallery/blob/fb4d48e2d26c13903be144dcb68ac132245d93b7/WechatIMG4327.jpg)
 ![Orchard 6](https://github.com/AnmengHao/EverFlow-Durian-PhotoGallery/blob/ec6725da40ab1c6fa43f588c1bdcfbaa3ae3f5af/WechatIMG4324.jpg)
+![Orchard 7](https://github.com/AnmengHao/EverFlow-Durian-PhotoGallery/blob/832e7e2c15e2e9e5f8fae36ba81051481ed1db78/WechatIMG4325.jpg)
