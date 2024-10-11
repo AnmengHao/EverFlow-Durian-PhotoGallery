@@ -14,3 +14,4 @@ These images show the durian orchards in Malaysia that are part of the EverFlow 
 ![Orchard 5](https://github.com/AnmengHao/EverFlow-Durian-PhotoGallery/blob/fb4d48e2d26c13903be144dcb68ac132245d93b7/WechatIMG4327.jpg)
 ![Orchard 6](https://github.com/AnmengHao/EverFlow-Durian-PhotoGallery/blob/ec6725da40ab1c6fa43f588c1bdcfbaa3ae3f5af/WechatIMG4324.jpg)
 ![Orchard 7](https://github.com/AnmengHao/EverFlow-Durian-PhotoGallery/blob/832e7e2c15e2e9e5f8fae36ba81051481ed1db78/WechatIMG4325.jpg)
+![Orchard 8]((https://github.com/AnmengHao/EverFlow-Durian-PhotoGallery/blob/e836f0499115c27f21139f8f036bc562c1aa3322/Durian1.jpg))
